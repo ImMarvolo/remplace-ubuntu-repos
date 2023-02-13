@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Removing previus"
+echo "Removing previous"
 rm -r /etc/apt/sources.list
 
 echo "Adding"
